@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'GLU-Header';
+    src: url('/assets/fonts/headers/PPRightGrotesk-SpatialBlack.otf') format('opentype'),
+         url('/assets/fonts/headers/PPRightGrotesk-SpatialBlack.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'GLU-Subheader';
+    src: url('../assets/fonts/subheaders/PPRightGrotesk-WideMedium.otf') format('opentype'),
+         url('../assets/fonts/subheaders/PPRightGrotesk-WideMedium.ttf') format('truetype');
+}
+
+body {
+    background: #f4f4f4;
+}
