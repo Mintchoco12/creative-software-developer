@@ -18,15 +18,15 @@ export default function nav() {
                 />
                 </Link>
                 <div className={styles.navbarRight}>
-                <Link href="/alumni" className={styles.navbarItem}>
-                    <p>Alumni</p>
-                </Link>
-                <Link href="https://www.glu.nl/de-vakschool-voor-creatieve-doeners/" className={styles.navbarItem}>
-                    <p>Over ons</p>
-                </Link>
-                <Link href="https://www.glu.nl/contact/" className={styles.navbarItem}>
-                    <p>Contact</p>
-                </Link>
+                    <Link href="/alumni" className={styles.navbarItem}>
+                        <p>Alumni</p>
+                    </Link>
+                    <Link href="https://www.glu.nl/de-vakschool-voor-creatieve-doeners/" className={styles.navbarItem}>
+                        <p>Over ons</p>
+                    </Link>
+                    <Link href="https://www.glu.nl/contact/" className={styles.navbarItem}>
+                        <p>Contact</p>
+                    </Link>
                 </div>
             </div>
         </>
